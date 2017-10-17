@@ -1,2 +1,2 @@
-# This is an update from local with GitKraken
+# Conflict commit from master branch
 ## Edité à partir de GitHub
