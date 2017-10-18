@@ -1,2 +1,2 @@
-# Conflict commit from master branch
+# Conflict commit from conflict branch
 ## Edité à partir de GitHub
